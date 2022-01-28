@@ -1,6 +1,6 @@
 # CLI-TicTacToe
 
-A tictactoe game for cli madein Nodejs. To play it in your terminal run :
+A tictactoe game for cli made in Nodejs. To play it in your terminal run :
 ```
 npx cli-tictactoe
 ```
