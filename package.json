@@ -1,13 +1,13 @@
 {
   "name": "cli-tictactoe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI TicTacToe",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin" : "./index.js",
+  "bin": "./index.js",
   "keywords": [],
   "author": "Ujjwal Kadam",
   "license": "ISC",
