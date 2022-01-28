@@ -1,7 +1,7 @@
 {
   "name": "cli-tictactoe",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI TicTacToe",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "bin" : "./index.js",
   "keywords": [],
-  "author": "",
+  "author": "Ujjwal Kadam",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.0",
